@@ -15,5 +15,9 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-![Snake Animation](https://github.com/lkalant/lkalant/blob/output/github-snake.svg)
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://github.com/lkalant/lkalant/blob/output/github-snake-dark.svg" />
+  <source media="(prefers-color-scheme: light)" srcset="https://github.com/lkalant/lkalant/blob/output/github-snake.svg" />
+  <img alt="GitHub Snake Animation" src="https://github.com/lkalant/lkalant/blob/output/github-snake.svg" />
+</picture>
 
